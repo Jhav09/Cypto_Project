@@ -1,0 +1,5 @@
+
+{
+  "name": "DataVault",
+  "description": "A client-side file encryption tool using AES. Upload a file and provide a password to encrypt it for secure storage. You can later upload the encrypted file and use the same password to decrypt and download the original file. All operations happen in your browser; your files are never sent to a server."
+}
